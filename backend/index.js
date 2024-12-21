@@ -5,5 +5,5 @@ const app = express();
 
 //callback function
 app.listen(PORT, () => {
-    console.log('App is listening to port: ${PORT}')
+    console.log(`App is listening to port: ${PORT}`); // Use backticks for string interpolation
 });
