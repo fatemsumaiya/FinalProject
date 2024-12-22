@@ -8,3 +8,9 @@ Some future changes:
 - the ability to organize all your to do lists into different sections
 - the ability to jot down how much time a certain task took
 - Any feedback or comments is strongly encouraged
+
+Some things I learned:
+- got my hands on mongoDB and it was very interesting to finally be able to utilize data to create a program!
+-downloaded tailwindCSS for the first time; seen many people use it and never had the chnace to use it myself 
+-I downloaded an extension called ES7+ to use REACT components
+-
